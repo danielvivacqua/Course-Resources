@@ -7,14 +7,14 @@ For this project you will be developing an MVC application that uses multiple mo
 You should have at least two models and a foreign key relationship. You should be able to view the styled home page, click a review and view a styled detail page.
 
 
-After you app is created populate the Categories table with at least 3 categories, and your Reviews table with at least 5 mock reviews. Feel free to fill them out Lorem Ipsum.
+After your app is created populate the Categories table with at least 3 categories, and your Reviews table with at least 5 mock reviews. Feel free to fill them out Lorem Ipsum.
 
 
 ## Due
 
-This project is due **Tuesday, Sept 6th at 8:00 AM**. 
+This project is due **Tuesday, October 11th at 9:30 AM**. 
 
-[Submission Link](https://docs.google.com/forms/d/1eNkTAveFaFGJ7I504fh3HC3qr6M5y0ciLdgH-eULmsc/viewform?usp=send_form)
+[Submission Link](https://docs.google.com/forms/d/e/1FAIpQLSetCKgi6BRrOQTnlwL_rpnhmKWj2WP0P0yYXiofng939F8UQw/viewform)
 
 ## Tasks
 
